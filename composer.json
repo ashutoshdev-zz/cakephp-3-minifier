@@ -1,9 +1,9 @@
 {
-	"name": "himanverma/cake3shrink",
+	"name": "himanverma/cakephp-3-minifier",
 	"type": "cakephp-plugin",
 	"description": "Compiles, combines, and minifies javascript, coffee, less, scss, and css. Forked from trentrichardson/cakephp-shrink with JsMinifier update for better compatibility with angularjs bundles",
 	"keywords": ["cakephp","javascript","less","css","scss","sass","coffee","minify"],
-	"homepage": "http://github.com/himanverma/cake3shrink",
+	"homepage": "http://github.com/himanverma/cakephp-3-minifier",
 	"license": "MIT",
 	"autoload": {
 	    "psr-4": {
@@ -24,7 +24,7 @@
 		"phpunit/phpunit": "4.1.*"
 	},
 	"support": {
-		"source": "https://github.com/himanverma/cake3shrink"
+		"source": "https://github.com/himanverma/cakephp-3-minifier"
 	},
 	"extra": {
 		"installer-name": "Shrink"
